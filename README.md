@@ -1,4 +1,3 @@
-# CP2Node-DevOps
 
 <div align="center">
 
